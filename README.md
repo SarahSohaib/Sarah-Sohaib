@@ -3,15 +3,15 @@
 🌌 **Engineer. Writer. Creator.**  
 - B.Tech CSE (Core) 3rd year student at Manipal University Jaipur  
 - Currently exploring AI, NLP, full-stack development, and anything curious that catches my mind  
-- Passionate about merging logic with creativity — whether it's through code, design, or writing  
+- Passionate about merging logic with creativity, whether it's through code, design, or writing  
 
 ---
 
 ## 🔭 What I'm Working On
 
 - 🧠 **Asena** – My personal virtual assistant project, inspired by JARVIS & TARS, combining voice, vision, and natural language intelligence. Aiming to outsmart Siri 😉  
-- 📚 **Tech + Philosophy Blogs** – Currently drafting a blog series that merges emerging tech with philosophical reflections, from AI ethics to quantum creativity.  
-- 💡 And other random ideas that pop up in the middle of the night (or during boring lectures)
+- 📚 **Tech + Philosophy Blogs** – Currently drafting a blog series that merges emerging tech with philosophical reflections, from AI ethics to quantum creativity. And some totally random ones too!
+- 💡 And other random ideas that pop up in the middle of the night
 
 
 
