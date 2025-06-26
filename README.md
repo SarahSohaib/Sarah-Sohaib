@@ -1,5 +1,18 @@
-# 💫 About Me:
-# Hi there, I'm Sarah Sohaib 👋  <br><br>🌌 **Engineer. Writer. Creator.**  <br>- B.Tech CSE (Core) 3rd year student at Manipal University Jaipur  <br>- Currently exploring AI, NLP, full-stack development, and anything curious that catches my mind  <br>- Passionate about merging logic with creativity — whether it's through code, design, or writing  <br><br>---<br><br>## 🔭 What I'm Working On<br><br>- 🧠 **Asena** – My personal virtual assistant project, inspired by JARVIS & TARS, combining voice, vision, and natural language intelligence. Aiming to outsmart Siri 😉  <br>- 📚 **Tech + Philosophy Blogs** – Currently drafting a blog series that merges emerging tech with philosophical reflections, from AI ethics to quantum creativity.  <br>- 💡 And other random ideas that pop up in the middle of the night (or during boring lectures)<br><br>
+# Hi there, I'm Sarah Sohaib 👋  
+
+🌌 **Engineer. Writer. Creator.**  
+- B.Tech CSE (Core) 3rd year student at Manipal University Jaipur  
+- Currently exploring AI, NLP, full-stack development, and anything curious that catches my mind  
+- Passionate about merging logic with creativity — whether it's through code, design, or writing  
+
+---
+
+## 🔭 What I'm Working On
+
+- 🧠 **Asena** – My personal virtual assistant project, inspired by JARVIS & TARS, combining voice, vision, and natural language intelligence. Aiming to outsmart Siri 😉  
+- 📚 **Tech + Philosophy Blogs** – Currently drafting a blog series that merges emerging tech with philosophical reflections, from AI ethics to quantum creativity.  
+- 💡 And other random ideas that pop up in the middle of the night (or during boring lectures)
+
 
 
 ## 🌐 Socials:
